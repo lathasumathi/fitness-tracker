@@ -1,0 +1,39 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [2 0 R] /Count 1 >>
+endobj
+2 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 1 0 R >>
+endobj
+1 0 obj
+<< /Length 439 >>
+stream
+BT /F1 10 Tf 50 760 Td 14 TL
+(FitTrack AI - Testing Phase) Tj T*
+() Tj T*
+(Testing tools: Postman collection, Thunder Client-compatible requests, and Node.js end-to-end) Tj T*
+(runners. Recorded evidence: core API 19 passed, expanded AI feature suite 19 passed, focused) Tj T*
+(RAG suite 4 passed, focused negative suite 6 passed. Consolidated UAT: 32 passed, 0 failed, 0) Tj T*
+(not executed. The project has no npm test script.) Tj T*
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000731 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+801
+%%EOF
